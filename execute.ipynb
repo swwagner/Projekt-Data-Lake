@@ -1,0 +1,2 @@
+import etl
+etl.main()
